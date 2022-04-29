@@ -2,7 +2,11 @@
 
 ![Logo](https://i.imgur.com/5LjeSmD.png)
 
-Create api endpoints with ease.
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/owowagency/laravel-resources.svg?style=flat-square)](https://packagist.org/packages/spatie/laravel-permission)
+![](https://github.com/owowagency/package-name/workflows/Run%20Tests/badge.svg?branch=master)
+[![Total Downloads](https://img.shields.io/packagist/dt/owowagency/laravel-resources.svg?style=flat-square)](https://packagist.org/packages/owowagency/laravel-resources)
+
+Create api endpoints with ease by only defining routes.
 
 ```php
 Route:apiResource(
@@ -22,6 +26,10 @@ Route:apiResource(
 
 1. [Installation](#installation)
 2. [Usage](#usage)
+    1. [Route registration](#route-registration)
+    2. [Customizing controllers](#customizing-controllers)
+    3. [Eloquent API resources](#eloquent-api-resources)
+    4. [Configuration](#configuration)
 3. [Contributing](#contributing)
 4. [Security](#security)
 5. [Credits](#credits)
@@ -32,7 +40,7 @@ Route:apiResource(
 Installing this package can be done easily via the following Composer command.
 
 ```bash
-composer require owowagency/gossip
+composer require owowagency/laravel-resources
 ```
 
 # Usage

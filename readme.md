@@ -1,6 +1,41 @@
 # Laravel Resources
 
+![Logo](https://i.imgur.com/5LjeSmD.png)
+
 Create api endpoints with ease.
+
+```php
+Route:apiResource(
+    'posts',
+    ResourceController::class,
+    [
+        'model' => Post::class,
+        'requests' => [
+            'store' => StoreRequest::class,
+            'update' => UpdateRequest::class,
+        ],
+    ],
+);
+```
+
+# Table of contents
+
+1. [Installation](#installation)
+2. [Usage](#usage)
+3. [Contributing](#contributing)
+4. [Security](#security)
+5. [Credits](#credits)
+6. [License](#license)
+
+# Installation
+
+Installing this package can be done easily via the following Composer command.
+
+```bash
+composer require owowagency/gossip
+```
+
+# Usage
 
 ## Route registration
 
@@ -102,3 +137,21 @@ return [
 
 ];
 ```
+
+# Contributing
+
+Please see [CONTRIBUTING](https://github.com/owowagency/package-name/blob/main/CONTRIBUTING.md) for details.
+
+## Security
+
+If you discover any security-related issues, please email dees@owow.io instead of using the issue tracker.
+
+# Credits
+
+- [Dees Oomens](https://github.com/dees040)
+
+Something about OWOW and that we're looking for talent?
+
+# License
+
+The MIT License (MIT). Please see [License File](https://github.com/owowagency/package-name/blob/main/LICENSE.md) for more information.

@@ -150,7 +150,7 @@ return [
 
 Please see [CONTRIBUTING](https://github.com/owowagency/package-name/blob/main/CONTRIBUTING.md) for details.
 
-## Security
+# Security
 
 If you discover any security-related issues, please email dees@owow.io instead of using the issue tracker.
 

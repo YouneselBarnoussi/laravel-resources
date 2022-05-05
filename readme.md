@@ -1,6 +1,6 @@
-# Laravel Resources
+![Banner dark](https://user-images.githubusercontent.com/45201651/166933157-1cfd4a06-0473-44e5-bab7-40c56e64a48a.png#gh-dark-mode-only)
+![Banner light](https://user-images.githubusercontent.com/45201651/166933230-84989144-26f8-459c-8a82-74fc9239b1c9.png#gh-light-mode-only)
 
-![Logo](https://i.imgur.com/5LjeSmD.png)
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/owowagency/laravel-resources.svg?style=flat-square)](https://packagist.org/packages/spatie/laravel-permission)
 ![](https://github.com/owowagency/package-name/workflows/Run%20Tests/badge.svg?branch=master)

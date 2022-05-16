@@ -1,7 +1,5 @@
-
-
+![laravel-resources-light](https://user-images.githubusercontent.com/45201651/168612214-4ce43d74-2b81-4e5c-bf43-72a09e3f7d6c.png#gh-light-mode-only)
 ![laravel-resources-dark-yellow](https://user-images.githubusercontent.com/45201651/168611579-ab08c395-d4fd-4e97-b9d8-3e78e6cb1beb.png#gh-dark-mode-only)
-![laravel-resources-light-yellow](https://user-images.githubusercontent.com/45201651/168611772-2504e3dd-2e78-46da-adf4-fcbbbf287154.png#gh-light-mode-only)
 
 
 

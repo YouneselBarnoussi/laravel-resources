@@ -1,5 +1,8 @@
-![Banner dark](https://user-images.githubusercontent.com/45201651/166933157-1cfd4a06-0473-44e5-bab7-40c56e64a48a.png#gh-dark-mode-only)
-![Banner light](https://user-images.githubusercontent.com/45201651/166933230-84989144-26f8-459c-8a82-74fc9239b1c9.png#gh-light-mode-only)
+
+
+![laravel-resources-dark-yellow](https://user-images.githubusercontent.com/45201651/168611579-ab08c395-d4fd-4e97-b9d8-3e78e6cb1beb.png#gh-dark-mode-only)
+![laravel-resources-light-yellow](https://user-images.githubusercontent.com/45201651/168611772-2504e3dd-2e78-46da-adf4-fcbbbf287154.png#gh-light-mode-only)
+
 
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/owowagency/laravel-resources.svg?style=flat-square)](https://packagist.org/packages/spatie/laravel-permission)

@@ -1,5 +1,5 @@
-![banner-dark](https://user-images.githubusercontent.com/45201651/168617789-aa60a7da-a321-4973-8472-7818275c21e4.png#gh-dark-mode-only)
-![banner-light](https://user-images.githubusercontent.com/45201651/168617781-cc7b0595-3b5e-4c9a-b463-99b801b45b88.png#gh-light-mode-only)
+![banner-dark](https://user-images.githubusercontent.com/45201651/168619766-7916643b-37b3-4c63-847b-573381262f2d.svg#gh-dark-mode-only)
+![banner-light](https://user-images.githubusercontent.com/45201651/168619361-b4948e09-11cf-4c41-be69-c9226bcdbf95.svg#gh-light-mode-only)
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/owowagency/laravel-resources.svg?style=flat-square)](https://packagist.org/packages/spatie/laravel-permission)
 ![](https://github.com/owowagency/package-name/workflows/Run%20Tests/badge.svg?branch=master)

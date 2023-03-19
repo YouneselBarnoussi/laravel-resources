@@ -4,6 +4,7 @@ namespace OwowAgency\LaravelResources;
 
 use Illuminate\Support\ServiceProvider;
 use OwowAgency\LaravelResources\Routing\ResourceRegistrar;
+use OwowAgency\LaravelResources\Routing\RouteRegistrar;
 
 class LaravelResourcesServiceProvider extends ServiceProvider
 {
@@ -16,6 +17,10 @@ class LaravelResourcesServiceProvider extends ServiceProvider
     {
         $this->app->bind('Illuminate\Routing\ResourceRegistrar', function () {
             return new ResourceRegistrar($this->app['router']);
+        });
+
+        $this->app->bind('Illuminate\Routing\RouteRegistrar', function () {
+            return new RouteRegistrar($this->app['router']);
         });
     }
 
